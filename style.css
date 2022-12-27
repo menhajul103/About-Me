@@ -1,0 +1,145 @@
+
+body{
+    background-color: rgb(219, 20, 20);
+    margin: 0px;
+    padding: 0pxs;
+    box-sizing: border-box;
+
+}
+ 
+
+
+.conteiner{
+    height:100%;
+    max-width: 100%;
+    background-color: rgb(159, 236, 236);
+    margin: 0 auto;
+    padding: 20px;
+    margin-right: 0px;
+  
+}
+
+
+
+
+.frofile-image{
+    width:100px ;
+    height: 120px;
+    border: 3px solid white ;
+    border-radius: 50%;
+    float: left;
+}
+.header-bio{
+    float:left;
+    padding: 15px;
+
+}
+h1,h2,h3,h4,h5{
+    color: rgb(3, 49, 62);
+
+}
+.header-contact{
+    float:right;
+    padding: 30px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: rgb(43, 44, 44);
+
+}
+
+
+.header-contact a:hover{
+    text-decoration: underline;
+    color: tomato;
+}
+.div-clear{
+    clear: both;
+
+}
+
+
+hr{
+    border: 3px black solid;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+
+
+/*personal siction*/
+
+
+
+#pasonal-sectio{
+
+}
+
+.content{
+    margin: 30px;
+}
+
+.div-left{
+    width: 30%;
+    float: left;
+
+
+}
+.education{
+    width: 100%;
+    /* background-color: red; */
+    position: relative;
+}
+#diploma{
+    font-size: 20px;
+}
+#diploma2{
+    position: absolute;
+    top: 10px;
+}
+#dakhil{
+    font-size: 20px;
+}
+#dakhail2{
+    position: absolute;
+    top:140px;
+}#jdc{
+    font-size: 20px;
+}
+#jdc2{
+    position: absolute;
+    top: 250px;
+}
+
+.div-right{
+
+    width:70%;
+    float: left ;
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+
+}
+.common-hr{
+    border: solid rgb(139, 9, 9) 1px;
+    border-bottom: none;
+    width: 90%;
+    margin: 30px;
+    
+}
+
+.singeture{
+    height: 80px;
+    width: 400px;
+    float: right;
+    margin-top:  40px;
+    
+}
+
+.singeture-head{
+    margin-left: 75%;
+    height: 20px;
+    width: 300px;
+    
+}

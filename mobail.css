@@ -1,0 +1,98 @@
+body{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+
+    
+
+
+}
+.conteiner{
+    text-align: justify ;
+    height: 100%;
+    max-width:1000px;
+    background-color: rgb(17, 233, 161);
+    margin: 0 auto;
+    padding: 20px;
+    position: relative;
+}
+.frofile-image{
+    
+    width:100px;
+    height: 120px;
+    border: 3px solid rgb(247, 247, 247) ;
+    border-radius: 50%;
+    margin: 10px auto auto auto ;    
+    
+    
+    
+ }
+
+.header-bio{
+    
+    top:150px;
+    font-size:11px;
+    width:380px;
+    height: 150px;
+   
+}
+
+ header{
+    
+    align-items: center;
+
+     
+ }
+ .conteiner:hover{
+    color: rgb(13, 24, 224);
+ }
+ a{
+    text-decoration: none;
+    color: rgb(43, 44, 44);
+
+}
+ .header-contact a:hover{
+    text-decoration: underline;
+    color: tomato;
+}
+hr{
+    border: 3px black solid;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+.education{
+    width: 100%;
+    /* background-color: red; */
+    position: relative;
+}
+#diploma{
+    font-size: 20px;
+}
+#diploma2{
+    position: absolute;
+    top: 10px;
+}
+#dakhil{
+    font-size: 20px;
+}
+#dakhail2{
+    position: absolute;
+    top:140px;
+}
+#jdc{
+    font-size: 20px;
+}
+#jdc2{
+    position: absolute;
+    top: 270px;
+}
+.singeture
+{
+    height: 80px;
+    width: 300px;
+}
+
+
+    
